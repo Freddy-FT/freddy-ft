@@ -9,7 +9,7 @@
       <h3>currently working on:</h3>
       <p>
         <strong>pwn.college:</strong> 
-        <span style="color: #ef7c00; font-weight: bold;">Orange Belt</span>
+        <img src="https://img.shields.io/badge/pwn.college-Orange_Belt-orange" alt="Orange Belt">
       </p>
       <h3>anyways, here some stuff I use:</h3>
       <p>
