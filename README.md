@@ -4,8 +4,8 @@
       <img src="./FT_LOGO_SD.png" alt="Logo" width="100%">
     </td>
     <td valign="top" style="padding-left: 20px;">
-      <h2>hey, i'm freddy</h2>
-      <p>i break stuff to see how it works. maybe i will upload some stuff i do and i am working on. probably cybersec or so with nim/c stuff</p>
+      <h2>Hey, I’m Freddy.</h2>
+      <p>I break things to understand how they work, then rebuild them, usually in C or Nim. My main focus is cybersecurity and low-level systems. </p>
       <h3>currently working on:</h3>
       <p>
         <strong>pwn.college:</strong> 
